@@ -77,9 +77,12 @@ button:hover {
   color: red;
   margin: 0;
   align-self: flex-start;
+  font-size: 14px;
 
 }
 .msgOk {
   color: green;
   margin-top: 4px;
+  font-size: 14px;
+
 }

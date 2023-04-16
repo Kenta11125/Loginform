@@ -1,9 +1,8 @@
 import "./App.css";
 import { useState } from "react";
 import React from "react";
-import ReactDOM from "react-dom/client";
 import "./index.css";
-import reportWebVitals from "./reportWebVitals";
+
 
 function App() {
   const initialValues = { username: "", mailaddress: "", password: "" };
